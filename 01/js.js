@@ -1,1 +1,6 @@
-console.log("BHAI SAAAB")
+console.log("BHAI SAAAB");
+
+let op = 'console.log("Hello")';
+
+
+console.log(`${op}`)
